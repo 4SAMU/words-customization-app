@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\bin\Debug\Methods Exercise.exe.config
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\bin\Debug\Methods Exercise.exe
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\bin\Debug\Methods Exercise.pdb
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods Exercise.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods_Exercise.Properties.Resources.resources
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods_Exercise.Shirt_customization.resources
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods Exercise.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods Exercise.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods Exercise.exe
+C:\Users\USER\source\repos\Methods Exercise\Methods Exercise\obj\Debug\Methods Exercise.pdb
